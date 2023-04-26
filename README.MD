@@ -1,4 +1,4 @@
-#聊天機器人
+# 聊天機器人
 - 使用版本
 - python 3.9.10
 - linemessageapi
@@ -24,6 +24,7 @@
 ### 綁定雲端倉庫url 
 
 -  git add remote  https://www.github.com/17app001/xxxxx
+- git remote -v
 
 ### 推送程式碼
 
